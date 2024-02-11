@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const {authenticateUser} = require('./authenticate')
+const {authenticateUser} = require('./authentication')
 
 const booksPath = path.join(__dirname, 'db', 'books.json');
 

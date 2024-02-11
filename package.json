@@ -11,5 +11,8 @@
     "url": "Amiekay"
   },
   "author": "Amara",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2"
+  }
 }
